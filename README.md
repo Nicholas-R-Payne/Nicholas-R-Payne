@@ -3,6 +3,7 @@
 
 🔭 I’m currently working on creating unit tests for multiple JavaScript projects.<br />
 🌱 I’m currently learning additional programming skills through BloomTech.
+⚡ Fun fact: My main hobby is gaming, my favorite being Pokemon!
 
 <!--
 **Nicholas-R-Payne/Nicholas-R-Payne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
