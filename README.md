@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ### I'm Nicholas, it's nice to meet you!
 
-### 🔭 I’m currently working on creating unit tests for multiple JavaScript projects.
+🔭 I’m currently working on creating unit tests for multiple JavaScript projects.
 
 <!--
 **Nicholas-R-Payne/Nicholas-R-Payne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
